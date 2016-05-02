@@ -1,0 +1,11 @@
+Package: demo
+Title: Demo package for D-RUG meeting
+Version: 0.0.0.9000
+Authors@R: person("Nistara", "Randhawa", email = "nrandhawa@ucdavis.edu", role = c("aut", "cre"))
+Description: This package was created as a demo for the Davis R users group meeting
+Depends:
+    R (>= 3.2.3)
+License: Choose your license
+LazyData: true
+RoxygenNote: 5.0.1
+Imports: leaflet
